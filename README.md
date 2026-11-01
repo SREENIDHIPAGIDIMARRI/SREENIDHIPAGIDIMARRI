@@ -102,7 +102,8 @@ Published in International Journal of Research Publication and Reviews, 2025.
 
 ## 📜 Certifications
 
-- Salesforce Agentforce Specialist.
+- Salesforce Agentforce Specialist
+- Oracle Cloud Infrastructure Certified
 - NPTEL – The Joy of Computing using Python.
 - Artificial Intelligence – Infosys.
 - Foundations of Programming with Python – ExcelR.

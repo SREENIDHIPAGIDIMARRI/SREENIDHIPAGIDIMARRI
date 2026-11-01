@@ -4,15 +4,22 @@ Information Technology Undergraduate | AI & Machine Learning Enthusiast | Full-S
   <a href="mailto:sreenidhipagidimarri@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/">LinkedIn</a> ·
   <a href="https://leetcode.com/">LeetCode</a>
-</p></div>👩‍💻 About Me
+</p></div>
+
+
+**👩‍💻 About Me**
 - 🎓 Pursuing B.E. in Information Technology at Chaitanya Bharathi Institute of Technology (CBIT).
 - 📚 Also pursuing the BS Degree in Data Science and Applications from IIT Madras.
 - 🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.
 - 💻 Building applications that combine software engineering, security, and intelligent systems.
 - 🌱 Currently gaining practical exposure to AI, ML, DL, NLP, and Computer Vision through the Infosys Springboard AI Internship.
 - 📍 Hyderabad, India.
-🛠️ Tech Stack
+
+  
+**🛠️ Tech Stack**
+
 Programming Languages
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -20,14 +27,20 @@ Programming Languages
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>Web Development
+</p>
+
+Web Development
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>Data Science, Databases & Tools
+</p>
+
+Data Science, Databases & Tools
+
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />

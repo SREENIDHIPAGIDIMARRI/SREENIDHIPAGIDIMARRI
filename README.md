@@ -1,34 +1,45 @@
-# Hello , I'm Sreenidhi Pagidimarri
-
-### Information Technology Student | AI & ML Enthusiast | Full-Stack Developer
-
-I'm an aspiring Software Engineer passionate about Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development.
-
-- 🎓 B.E. Information Technology at Chaitanya Bharathi Institute of Technology (CBIT).
-- 📚 Pursuing BS in Data Science and Applications at IIT Madras.
-- 💼 AI Intern at Infosys Springboard.
-- 🤖 Exploring Machine Learning, Deep Learning, NLP, and Computer Vision.
-- 💻 Interested in building intelligent and secure applications.
+<div align="center">Hi, I'm Sreenidhi Pagidimarri 👋
+Information Technology Undergraduate | AI & Machine Learning Enthusiast | Full-Stack Developer
+<p>
+  <a href="mailto:sreenidhipagidimarri@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/">LinkedIn</a> ·
+  <a href="https://leetcode.com/">LeetCode</a>
+</p></div>👩‍💻 About Me
+- 🎓 Pursuing B.E. in Information Technology at Chaitanya Bharathi Institute of Technology (CBIT).
+- 📚 Also pursuing the BS Degree in Data Science and Applications from IIT Madras.
+- 🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.
+- 💻 Building applications that combine software engineering, security, and intelligent systems.
+- 🌱 Currently gaining practical exposure to AI, ML, DL, NLP, and Computer Vision through the Infosys Springboard AI Internship.
 - 📍 Hyderabad, India.
-
----
-
-## 🛠️ Technical Skills
-
-**Programming Languages**
-- Java, Python, C, C++, JavaScript, SQL
-
-**Web Development**
-- HTML, CSS, React.js, Node.js, Express.js
-
-**Databases**
-- MySQL, MongoDB
-
-**Data Science & Libraries**
-- NumPy, Pandas, Matplotlib, Seaborn
-
-**Tools & Platforms**
-- Git, GitHub, VS Code, Power BI
+🛠️ Tech Stack
+Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>Data Science, Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 **Core Subjects**
 - Data Structures and Algorithms

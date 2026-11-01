@@ -71,18 +71,18 @@ Data Science, Databases & Tools
 -Integrated Grad-CAM, anomaly heatmaps, and defect localization for explainable inspection.
 -Implemented severity assessment and a unified decision engine to recommend Repair, Refurbish, or Replace.
 
-### 1. LexCrypt – A Secure Vault
+### 2. LexCrypt – A Secure Vault
 - Developed a secure document management application.
 - Implemented SHA-256 integrity hashing for tamper detection.
 - Integrated AES-256-GCM client-side encryption.
 - Focused on end-to-end document security and Indian Cyber Law compliance.
 
-### 2. HireQuest AI – Interview Preparation Platform
+### 3. HireQuest AI – Interview Preparation Platform
 - Developed an AI-powered interview preparation platform.
 - Integrated dynamic question generation.
 - Provides personalized feedback to improve interview performance.
 
-### 3. AI Chatbot – Intelligent Conversational Agent
+### 4. AI Chatbot – Intelligent Conversational Agent
 - Developed an intelligent chatbot for everyday queries and productivity.
 - Implemented multi-turn conversations.
 - Integrated dynamic response generation.
